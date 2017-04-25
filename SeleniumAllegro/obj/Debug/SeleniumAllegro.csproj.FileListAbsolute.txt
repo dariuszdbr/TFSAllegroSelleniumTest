@@ -1,0 +1,8 @@
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumAllegro\SeleniumAllegro\bin\Debug\SeleniumAllegro.exe.config
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumAllegro\SeleniumAllegro\bin\Debug\SeleniumAllegro.exe
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumAllegro\SeleniumAllegro\bin\Debug\SeleniumAllegro.pdb
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumAllegro\SeleniumAllegro\bin\Debug\WebDriver.dll
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumAllegro\SeleniumAllegro\bin\Debug\WebDriver.xml
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumAllegro\SeleniumAllegro\obj\Debug\SeleniumAllegro.csprojResolveAssemblyReference.cache
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumAllegro\SeleniumAllegro\obj\Debug\SeleniumAllegro.exe
+c:\users\darek\documents\visual studio 2013\Projects\SeleniumAllegro\SeleniumAllegro\obj\Debug\SeleniumAllegro.pdb
